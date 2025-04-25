@@ -15,10 +15,14 @@ On l’appellera peut-être _Fragments of Us_ ou _Dis-moi quelque chose_ ou _Tem
 
 ## Direction artistique 🎨
 
+![](<direction artistique/README.md>)
+
 Pour une première version, les graphismes du jeu seront **minimalistes**.
 
 Il ne faut pas oublier que le jeu est **centré sur les échanges et la parole**.
 
 ## Détails techniques 🎼
+
+![](</README.md>)
 
 On utilisera peut-être [Pygame](https://en.wikipedia.org/wiki/Pygame) pour développer le jeu.
