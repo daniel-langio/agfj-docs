@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "direction artistique/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,8 +182,9 @@
   },
   "active": "ecb544c76a3f99e7",
   "lastOpenFiles": [
-    "gameplay/README.md",
     "README.md",
+    "direction artistique/README.md",
+    "gameplay/README.md",
     "concept/README.md",
     "technique",
     "direction artistique",
