@@ -1,1 +1,1 @@
-On utilisera peut-être [Python](<>) et [Pygame](https://en.wikipedia.org/wiki/Pygame) pour développer le jeu.
+On utilisera peut-être [Python](<https://en.wikipedia.org/wiki/Python_(programming_language)>) et [Pygame](https://en.wikipedia.org/wiki/Pygame) pour développer le jeu.
