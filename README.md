@@ -21,4 +21,3 @@ On l’appellera peut-être _Fragments of Us_ ou _Dis-moi quelque chose_ ou _Tem
 
 ![](<technique/README.md>)
 
-On utilisera peut-être [Pygame](https://en.wikipedia.org/wiki/Pygame) pour développer le jeu.
