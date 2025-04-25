@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🎨",
+      "🎮",
       "🪣"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +32,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "concept": "🪣"
+  "concept": "🪣",
+  "gameplay": "🎮",
+  "direction artistique": "🎨"
 }
