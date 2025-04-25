@@ -4,15 +4,14 @@ On spécifie ici les détails d’un **jeu basé sur la discussion** que l’on 
 
 # Points importants ✍️
 
+On l’appellera peut-être _Fragments of Us_ ou _Dis-moi quelque chose_ ou _Temps mort_.
 ## Concepts du jeu 💭
 
-Le jeu est centré sur les **discussions**. Le joueur aura des échanges plus ou moins variés avec des personnages, lui permettant de découvrir des histoires ou des scènes.
-
-On l’appellera peut-être _Fragments of Us_ ou _Dis-moi quelque chose_ ou _Temps mort_.
+![](<concept/README.md>)
 
 ## Gameplay 🎈
 
-Le gameplay repose sur les **interactions du joueur** avec son environnement et les personnages du jeu durant les discussions.
+
 
 ## Direction artistique 🎨
 

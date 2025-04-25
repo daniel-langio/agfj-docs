@@ -1,1 +1,1 @@
-Un jeux de 
+Le jeu est centré sur les **discussions**. Le joueur aura des échanges plus ou moins variés avec des personnages, lui permettant de découvrir des histoires ou des scènes.

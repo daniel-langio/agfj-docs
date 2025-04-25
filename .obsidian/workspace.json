@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept/README.md",
+                "file": "gameplay/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8325af2db0ce105",
+  "active": "ecb544c76a3f99e7",
   "lastOpenFiles": [
+    "gameplay/README.md",
     "README.md",
     "concept/README.md",
     "technique",
