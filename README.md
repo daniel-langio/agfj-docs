@@ -23,6 +23,6 @@ Il ne faut pas oublier que le jeu est **centré sur les échanges et la parole**
 
 ## Détails techniques 🎼
 
-![](</README.md>)
+![](<technique/README.md>)
 
 On utilisera peut-être [Pygame](https://en.wikipedia.org/wiki/Pygame) pour développer le jeu.
