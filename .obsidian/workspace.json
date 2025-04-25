@@ -335,12 +335,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/mode de jeux.md",
+                "file": "technique/animation de personnage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mode de jeux"
+              "title": "animation de personnage"
+            }
+          },
+          {
+            "id": "2f24a1d25ff31637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technique/animation de scene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "animation de scene"
+            }
+          },
+          {
+            "id": "7446f6348341bb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technique/animation de discussion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "animation de discussion"
+            }
+          },
+          {
+            "id": "528eee90e2482213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technique/interface utilisateur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "interface utilisateur"
             }
           },
           {
@@ -358,7 +400,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -503,10 +545,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f9e9e402ea87b3a",
+  "active": "528eee90e2482213",
   "lastOpenFiles": [
-    "technique/paramètre.md",
+    "technique/animation de discussion.md",
+    "technique/interface utilisateur.md",
+    "technique/animation de scene.md",
+    "technique/animation de personnage.md",
     "gameplay/mode de jeux.md",
+    "technique/paramètre.md",
     "technique/ménu.md",
     "technique/mécanique de scene.md",
     "technique/mécanique d'interaction.md",
@@ -527,10 +573,6 @@
     "gameplay/choix de réponse.md",
     "gameplay/déroulement d'un discussion.md",
     "concept/scene.md",
-    "concept/expression faciale.md",
-    "concept/personnage non jouable.md",
-    "concept/objet.md",
-    "concept/environnement.md",
     "technique",
     "direction artistique",
     "gameplay",
