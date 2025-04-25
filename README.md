@@ -11,7 +11,7 @@ On l’appellera peut-être _Fragments of Us_ ou _Dis-moi quelque chose_ ou _Tem
 
 ## Gameplay 🎈
 
-
+![](<gameplay/README.md>)
 
 ## Direction artistique 🎨
 
