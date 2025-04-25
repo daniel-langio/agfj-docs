@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technique/README.md",
+                "file": "concept/joueur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "joueur"
             }
           },
           {
@@ -182,11 +182,13 @@
   },
   "active": "ecb544c76a3f99e7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "concept/joueur.md",
     "README.md",
+    "concept/README.md",
     "technique/README.md",
     "direction artistique/README.md",
     "gameplay/README.md",
-    "concept/README.md",
     "technique",
     "direction artistique",
     "gameplay",
