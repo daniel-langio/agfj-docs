@@ -181,12 +181,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/Untitled.md",
+                "file": "gameplay/interaction avec les pnjs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "interaction avec les pnjs"
+            }
+          },
+          {
+            "id": "cac984b9e3c1d849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gameplay/déclenchement d'une discussion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "déclenchement d'une discussion"
+            }
+          },
+          {
+            "id": "59c39a2fe36b408a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gameplay/déclenchement d'un scene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "déclenchement d'un scene"
+            }
+          },
+          {
+            "id": "542a0677deaf5b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gameplay/fin d'une discussion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fin d'une discussion"
+            }
+          },
+          {
+            "id": "59baa203611309e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gameplay/fin d'une scene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fin d'une scene"
             }
           },
           {
@@ -204,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -349,10 +405,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "916b2e38c5357094",
+  "active": "59baa203611309e8",
   "lastOpenFiles": [
+    "gameplay/fin d'une discussion.md",
+    "gameplay/fin d'une scene.md",
+    "gameplay/déclenchement d'un scene.md",
+    "gameplay/déclenchement d'une discussion.md",
+    "gameplay/interaction avec les pnjs.md",
     "gameplay/interaction avec l'environnement.md",
-    "gameplay/Untitled.md",
     "gameplay/expression faciale.md",
     "gameplay/déroulement d'une scene.md",
     "gameplay/choix de réponse.md",
