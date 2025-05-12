@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept/discussion.md",
+                "file": "concept/scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "discussion"
+              "title": "scene"
             }
           },
           {
             "id": "ebf1d17fcf73778b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/entité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entité"
+            }
+          },
+          {
+            "id": "e667e833e332d38c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +49,7 @@
               "title": "scene"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,16 +194,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebf1d17fcf73778b",
+  "active": "e8325af2db0ce105",
   "lastOpenFiles": [
+    "concept/personnage.md",
+    "concept/objet.md",
     "concept/discussion.md",
+    "concept/entité.md",
+    "concept/scene.md",
+    "concept/interaction.md",
     "concept/expression faciale.md",
     "concept/personnage non jouable.md",
     "concept/joueur.md",
-    "concept/objet.md",
-    "concept/personnage.md",
     "gameplay/README.md",
-    "concept/interaction.md",
     "concept/environnement.md",
     "gameplay/déroulement d'un discussion.md",
     "gameplay/choix de réponse.md",
@@ -207,8 +222,6 @@
     "technique/mécanique de discussion.md",
     "technique/mécanique d'interaction.md",
     "technique/mécanique de scene.md",
-    "technique/ménu.md",
-    "technique/animation de personnage.md",
     "technique",
     "direction artistique",
     "gameplay",

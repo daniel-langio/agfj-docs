@@ -1,0 +1,1 @@
+Agissement d'un [personnage](personnage.md) sur un [objet](objet.md).
