@@ -49,7 +49,8 @@
               "title": "scene"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8325af2db0ce105",
+  "active": "ebf1d17fcf73778b",
   "lastOpenFiles": [
+    "concept/scene.md",
     "concept/personnage.md",
     "concept/objet.md",
     "concept/discussion.md",
     "concept/entité.md",
-    "concept/scene.md",
     "concept/interaction.md",
     "concept/expression faciale.md",
     "concept/personnage non jouable.md",
