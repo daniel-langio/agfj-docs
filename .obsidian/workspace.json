@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/README.md",
+                "file": "concept/personnage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "personnage"
             }
           }
         ]
@@ -168,6 +168,8 @@
   },
   "active": "e8325af2db0ce105",
   "lastOpenFiles": [
+    "concept/joueur.md",
+    "gameplay/README.md",
     "concept/personnage.md",
     "concept/discussion.md",
     "concept/interaction.md",
@@ -192,8 +194,6 @@
     "technique/mécanique de scene.md",
     "technique/ménu.md",
     "technique/animation de personnage.md",
-    "technique/animation de scene.md",
-    "technique/animation de discussion.md",
     "technique",
     "direction artistique",
     "gameplay",
