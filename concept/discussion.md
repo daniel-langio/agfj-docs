@@ -1,0 +1,1 @@
+Désigne une [scene](scene.md) où un ou plusieurs [personnage](personnage.md) s'expriment entre eux.

@@ -1,1 +1,1 @@
-Mouvement de visage [personnage](personnage.md) 
+Mouvement de visage d'un [personnage](personnage.md).
