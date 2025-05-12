@@ -8,384 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecb544c76a3f99e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/personnage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "personnage"
-            }
-          },
-          {
-            "id": "4b0580f42bbf7e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/discussion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "discussion"
-            }
-          },
-          {
-            "id": "4d899acd4b6d3d98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/interaction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "interaction"
-            }
-          },
-          {
-            "id": "72d8f5cd5987c512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/environnement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "environnement"
-            }
-          },
-          {
-            "id": "9e5df2d9eade8ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/objet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "objet"
-            }
-          },
-          {
-            "id": "37a8cbb7a120b821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/personnage non jouable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "personnage non jouable"
-            }
-          },
-          {
-            "id": "c41f7c5f7258b057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/expression faciale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "expression faciale"
-            }
-          },
-          {
-            "id": "50928ef77b358564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/déroulement d'un discussion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "déroulement d'un discussion"
-            }
-          },
-          {
-            "id": "a33b59e1a4af4073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/choix de réponse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "choix de réponse"
-            }
-          },
-          {
-            "id": "8bdb6aded294d56c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/déroulement d'une scene.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "déroulement d'une scene"
-            }
-          },
-          {
-            "id": "31741a4347db87ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/expression faciale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "expression faciale"
-            }
-          },
-          {
-            "id": "3d1fc584acba6c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/interaction avec l'environnement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "interaction avec l'environnement"
-            }
-          },
-          {
-            "id": "916b2e38c5357094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/interaction avec les pnjs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "interaction avec les pnjs"
-            }
-          },
-          {
-            "id": "cac984b9e3c1d849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/déclenchement d'une discussion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "déclenchement d'une discussion"
-            }
-          },
-          {
-            "id": "59c39a2fe36b408a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/déclenchement d'un scene.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "déclenchement d'un scene"
-            }
-          },
-          {
-            "id": "542a0677deaf5b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gameplay/fin d'une discussion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fin d'une discussion"
-            }
-          },
-          {
-            "id": "59baa203611309e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "direction artistique/style graphique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "style graphique"
-            }
-          },
-          {
-            "id": "7a92d89378c47454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "direction artistique/style de texte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "style de texte"
-            }
-          },
-          {
-            "id": "ce725658e88f7664",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/moteur de jeux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "moteur de jeux"
-            }
-          },
-          {
-            "id": "1696eff360b0eab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/mécanique de discussion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mécanique de discussion"
-            }
-          },
-          {
-            "id": "584a10c18284475c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/mécanique d'interaction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mécanique d'interaction"
-            }
-          },
-          {
-            "id": "618a71e834b2a72e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/mécanique de scene.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mécanique de scene"
-            }
-          },
-          {
-            "id": "8a4b1d860bf0d70d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/ménu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ménu"
-            }
-          },
-          {
-            "id": "1f9e9e402ea87b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/animation de personnage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "animation de personnage"
-            }
-          },
-          {
-            "id": "2f24a1d25ff31637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/animation de scene.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "animation de scene"
-            }
-          },
-          {
-            "id": "7446f6348341bb94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/animation de discussion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "animation de discussion"
-            }
-          },
-          {
-            "id": "528eee90e2482213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technique/interface utilisateur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "interface utilisateur"
-            }
-          },
-          {
             "id": "e8325af2db0ce105",
             "type": "leaf",
             "state": {
@@ -399,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 26
+        ]
       }
     ],
     "direction": "vertical"
@@ -545,34 +166,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "528eee90e2482213",
+  "active": "e8325af2db0ce105",
   "lastOpenFiles": [
-    "technique/animation de discussion.md",
-    "technique/interface utilisateur.md",
-    "technique/animation de scene.md",
-    "technique/animation de personnage.md",
-    "gameplay/mode de jeux.md",
-    "technique/paramètre.md",
-    "technique/ménu.md",
-    "technique/mécanique de scene.md",
-    "technique/mécanique d'interaction.md",
-    "technique/mécanique de discussion.md",
-    "technique/moteur de jeux.md",
-    "gameplay/README.md",
-    "direction artistique/palette de couleur.md",
-    "direction artistique/style de texte.md",
-    "direction artistique/style graphique.md",
-    "gameplay/fin d'une scene.md",
-    "gameplay/fin d'une discussion.md",
-    "gameplay/déclenchement d'un scene.md",
-    "gameplay/déclenchement d'une discussion.md",
-    "gameplay/interaction avec les pnjs.md",
-    "gameplay/interaction avec l'environnement.md",
-    "gameplay/expression faciale.md",
-    "gameplay/déroulement d'une scene.md",
-    "gameplay/choix de réponse.md",
+    "concept/personnage.md",
+    "concept/discussion.md",
+    "concept/interaction.md",
+    "concept/environnement.md",
+    "concept/objet.md",
+    "concept/personnage non jouable.md",
+    "concept/expression faciale.md",
     "gameplay/déroulement d'un discussion.md",
-    "concept/scene.md",
+    "gameplay/choix de réponse.md",
+    "gameplay/déroulement d'une scene.md",
+    "gameplay/expression faciale.md",
+    "gameplay/interaction avec l'environnement.md",
+    "gameplay/interaction avec les pnjs.md",
+    "gameplay/déclenchement d'une discussion.md",
+    "gameplay/déclenchement d'un scene.md",
+    "gameplay/fin d'une discussion.md",
+    "direction artistique/style graphique.md",
+    "direction artistique/style de texte.md",
+    "technique/moteur de jeux.md",
+    "technique/mécanique de discussion.md",
+    "technique/mécanique d'interaction.md",
+    "technique/mécanique de scene.md",
+    "technique/ménu.md",
+    "technique/animation de personnage.md",
+    "technique/animation de scene.md",
+    "technique/animation de discussion.md",
     "technique",
     "direction artistique",
     "gameplay",
