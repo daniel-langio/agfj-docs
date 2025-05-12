@@ -1,1 +1,1 @@
-Ensemble 
+Suite d'interaction entre [entité](entité.md).
