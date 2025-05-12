@@ -1,0 +1,1 @@
+Ensemble d'[objet](objet.md) qui entoure un [personnage](personnage.md).
