@@ -1,0 +1,1 @@
+Un [personnage](personnage.md) commandé par un humain.
