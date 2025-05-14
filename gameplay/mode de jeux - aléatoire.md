@@ -1,1 +1,1 @@
-Charge une [scene](../concept/scene.md)
+Charge une [scene](../concept/scene.md) aléatoire.

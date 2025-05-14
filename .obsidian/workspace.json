@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/mode de jeux - aléatoire.md",
+                "file": "gameplay/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mode de jeux - aléatoire"
+              "title": "README"
             }
           }
         ],
