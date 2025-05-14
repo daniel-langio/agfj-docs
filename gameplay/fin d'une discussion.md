@@ -1,7 +1,6 @@
 # Action
 
 - transition
-- 
 
 # Redirection
 
