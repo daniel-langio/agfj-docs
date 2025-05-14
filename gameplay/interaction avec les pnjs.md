@@ -6,4 +6,3 @@
 # Actions
 
 - commencer une [discussion](../concept/discussion.md)
-- 
