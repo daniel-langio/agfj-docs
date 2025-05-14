@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "direction artistique/palette de couleur.md",
+                "file": "direction artistique/style de texte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "palette de couleur"
+              "title": "style de texte"
             }
           }
         ],
@@ -195,16 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d737b43a92890485",
+  "active": "e667e833e332d38c",
   "lastOpenFiles": [
+    "direction artistique/style graphique.md",
+    "direction artistique/style de texte.md",
+    "direction artistique/palette de couleur.md",
     "direction artistique/files/palette.png",
     "direction artistique/files/agfj-palette.png",
     "direction artistique/files/palette.pdf",
     "direction artistique/files/agfj.pdf",
     "direction artistique/files",
-    "direction artistique/style de texte.md",
-    "direction artistique/palette de couleur.md",
-    "direction artistique/style graphique.md",
     "direction artistique/README.md",
     "concept/README.md",
     "concept/discussion.md",
