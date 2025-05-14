@@ -4,4 +4,6 @@
 
 # Actions
 
-- recupérer 
+- récupérer
+- lâcher
+- bouger
