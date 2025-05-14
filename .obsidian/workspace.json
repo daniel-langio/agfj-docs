@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/déroulement d'un discussion.md",
+                "file": "gameplay/déclenchement d'une scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "déroulement d'un discussion"
+              "title": "déclenchement d'une scene"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "16c452a340402e32",
   "lastOpenFiles": [
+    "gameplay/déroulement d'un discussion.md",
     "gameplay/déroulement d'une scene.md",
     "gameplay/expression faciale.md",
     "gameplay/fin d'une discussion.md",
@@ -221,7 +222,6 @@
     "gameplay/README.md",
     "gameplay/mode de jeux - aléatoire.md",
     "gameplay/interaction avec les pnjs.md",
-    "gameplay/déroulement d'un discussion.md",
     "gameplay/déclenchement d'une scene.md",
     "gameplay/choix de réponse.md",
     "direction artistique/style de texte.md",
