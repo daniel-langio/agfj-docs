@@ -5,6 +5,14 @@
 
 ## Dialogue
 
-Défaut: 
+Par défaut: 
+
+Neutre: 
+
+Joie: 
+
+Tristesse: 
+
+
 
 
