@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/déroulement d'une scene.md",
+                "file": "gameplay/déroulement d'un discussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "déroulement d'une scene"
+              "title": "déroulement d'un discussion"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "16c452a340402e32",
   "lastOpenFiles": [
+    "gameplay/déroulement d'une scene.md",
     "gameplay/expression faciale.md",
     "gameplay/fin d'une discussion.md",
     "gameplay/fin d'une scene.md",
@@ -241,7 +242,6 @@
     "concept/interaction.md",
     "concept/expression faciale.md",
     "concept/personnage non jouable.md",
-    "concept/joueur.md",
     "technique",
     "direction artistique",
     "gameplay",
