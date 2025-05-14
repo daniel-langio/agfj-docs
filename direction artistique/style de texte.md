@@ -7,7 +7,7 @@
 
 Par défaut: [Jost](<https://fonts.google.com/specimen/Jost>)
 
-Neutre: 
+Neutre: [Jost](<https://fonts.google.com/specimen/Jost>)
 
 Joie: 
 
