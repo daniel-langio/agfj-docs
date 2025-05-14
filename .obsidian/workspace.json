@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/déclenchement d'une discussion.md",
+                "file": "gameplay/interaction avec les pnjs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "déclenchement d'une discussion"
+              "title": "interaction avec les pnjs"
             }
           }
         ],
@@ -211,6 +211,8 @@
   },
   "active": "16c452a340402e32",
   "lastOpenFiles": [
+    "gameplay/choix de réponse.md",
+    "gameplay/déclenchement d'une discussion.md",
     "gameplay/déclenchement d'une scene.md",
     "gameplay/déroulement d'un discussion.md",
     "gameplay/déroulement d'une scene.md",
@@ -223,7 +225,6 @@
     "gameplay/README.md",
     "gameplay/mode de jeux - aléatoire.md",
     "gameplay/interaction avec les pnjs.md",
-    "gameplay/choix de réponse.md",
     "direction artistique/style de texte.md",
     "direction artistique/style graphique.md",
     "direction artistique/palette de couleur.md",
@@ -241,7 +242,6 @@
     "concept/personnage.md",
     "concept/interaction.md",
     "concept/expression faciale.md",
-    "concept/personnage non jouable.md",
     "technique",
     "direction artistique",
     "gameplay",
