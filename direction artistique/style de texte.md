@@ -13,6 +13,6 @@ Joie:
 
 Tristesse: 
 
-
+Colère: 
 
 
