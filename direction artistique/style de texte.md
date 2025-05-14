@@ -9,7 +9,7 @@ Par défaut: [Jost](<https://fonts.google.com/specimen/Jost>)
 
 Neutre: [Jost](<https://fonts.google.com/specimen/Jost>)
 
-Joie: 
+Joie: [Baumans](<https://fonts.google.com/specimen/Baumans>)
 
 Tristesse: [Syne Mono](<https://fonts.google.com/specimen/Syne+Mono>)
 
