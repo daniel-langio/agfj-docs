@@ -6,4 +6,4 @@
 
 - récupérer
 - lâcher
-- bouger
+- animer

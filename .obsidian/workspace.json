@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameplay/interaction avec les objets.md",
+                "file": "gameplay/choix de réponse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interaction avec les objets"
+              "title": "choix de réponse"
             }
           }
         ],
@@ -225,6 +225,8 @@
   },
   "active": "1c34f3d0afaf474c",
   "lastOpenFiles": [
+    "gameplay/fin d'une discussion.md",
+    "gameplay/fin d'une scene.md",
     "gameplay/interaction avec les objets.md",
     "gameplay/déroulement d'une scene.md",
     "gameplay/interaction avec les pnjs.md",
@@ -234,8 +236,6 @@
     "gameplay/choix de réponse.md",
     "gameplay/déclenchement d'une discussion.md",
     "gameplay/expression faciale.md",
-    "gameplay/fin d'une discussion.md",
-    "gameplay/fin d'une scene.md",
     "gameplay/interaction avec l'environnement.md",
     "gameplay/mode de jeux.md",
     "gameplay/README.md",
