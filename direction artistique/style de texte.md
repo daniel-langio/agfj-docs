@@ -13,6 +13,6 @@ Joie:
 
 Tristesse: 
 
-Colère: 
+Colère: [Joti One](<https://fonts.google.com/specimen/Joti+One>)
 
 
