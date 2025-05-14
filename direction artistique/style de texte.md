@@ -5,7 +5,7 @@
 
 ## Dialogue
 
-Par défaut: 
+Par défaut: [Jost](<https://fonts.google.com/specimen/Jost>)
 
 Neutre: 
 
