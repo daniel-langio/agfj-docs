@@ -1,1 +1,3 @@
 Le gameplay repose sur les **interactions du joueur** avec son environnement et les personnages du jeu durant les discussions.
+
+## 
