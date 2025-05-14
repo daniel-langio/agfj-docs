@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "direction artistique/style graphique.md",
+                "file": "direction artistique/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "style graphique"
+              "title": "README"
             }
           }
         ],
@@ -197,9 +197,9 @@
   },
   "active": "e667e833e332d38c",
   "lastOpenFiles": [
+    "direction artistique/style graphique.md",
     "direction artistique/style de texte.md",
     "concept/README.md",
-    "direction artistique/style graphique.md",
     "direction artistique/README.md",
     "direction artistique/palette de couleur.md",
     "concept/discussion.md",
