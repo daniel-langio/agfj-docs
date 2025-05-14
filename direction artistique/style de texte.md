@@ -11,7 +11,7 @@ Neutre: [Jost](<https://fonts.google.com/specimen/Jost>)
 
 Joie: 
 
-Tristesse: 
+Tristesse: [Syne Mono](<https://fonts.google.com/specimen/Syne+Mono>)
 
 Colère: [Joti One](<https://fonts.google.com/specimen/Joti+One>)
 
