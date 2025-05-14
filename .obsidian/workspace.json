@@ -195,8 +195,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e667e833e332d38c",
+  "active": "d737b43a92890485",
   "lastOpenFiles": [
+    "direction artistique/Untitled",
     "direction artistique/style de texte.md",
     "direction artistique/palette de couleur.md",
     "direction artistique/style graphique.md",
@@ -222,7 +223,6 @@
     "gameplay/déclenchement d'une discussion.md",
     "gameplay/déclenchement d'un scene.md",
     "gameplay/fin d'une discussion.md",
-    "technique/moteur de jeux.md",
     "technique",
     "direction artistique",
     "gameplay",
